@@ -69,6 +69,7 @@ To set up and run the Rails application, run:
 ```console
 $ bundle install
 $ rails s
+
 ```
 
 Then, in the browser, make a request to `http://localhost:3000/sessions`. This
